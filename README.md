@@ -13,7 +13,7 @@
 - 🎓 Pursuing B.Tech Computer Science at Thapar Institute of Engineering & Technology
 - 🤖 Passionate about Machine Learning, Deep Learning, and intelligent simulations  
 - 🔬 Currently working on CNN-based Chip Modeling using MATLAB & COMSOL
-💡 Passionate about using AI, ML, and DL to solve complex real-world problems across diverse domains
+- 💡 Passionate about using AI, ML, and DL to solve complex real-world problems across diverse domains
 - ✉️ Reach me at: **divanshi1309@gmail.com**
 - 🎯 Goal: To build impactful AI solutions & grow as a developer and researcher
 
