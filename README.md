@@ -10,8 +10,7 @@
 </p>
 
 🔍 **About Me**
-
-- 🎓 I'm a 3rd-year undergraduate student at Thapar Institute of Engineering & Technology
+- 🎓 Pursuing B.Tech at Thapar Institute of Engineering & Technology
 - 🤖 Passionate about Machine Learning, Deep Learning, and intelligent simulations  
 - 🔬 Currently working on CNN-based Chip Modeling using MATLAB & COMSOL
 💡 Passionate about using AI, ML, and DL to solve complex real-world problems across diverse domains
