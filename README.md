@@ -10,30 +10,30 @@
 </p>
 
 
-- 🧠 Interested in Machine Learning, Deep Learning, and intelligent simulations  
-- 🧪 Working on: CNN Based Chip Modelling using MATLAB & COMSOL  
-- 📫 Reach me at: **divanshi1309@gmail.com**  
+-  Interested in Machine Learning, Deep Learning, and intelligent simulations  
+-  Working on: CNN Based Chip Modelling using MATLAB & COMSOL  
+-  Reach me at: **divanshi1309@gmail.com**  
 - 🎯 Goal: Build impactful AI solutions & grow as a developer
 
 ---
 
-### 🧰 Tech Stack
+###  Tech Stack
 
-#### 🧑‍💻 Languages  
+####  Languages  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
 ![C](https://img.shields.io/badge/-C-111111?style=for-the-badge&logo=c&logoColor=white)  
 ![SQL](https://img.shields.io/badge/-SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
 ![R](https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
-#### 📚 Frameworks & Libraries  
+####  Frameworks & Libraries  
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
 ![Keras](https://img.shields.io/badge/-Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)  
 ![Scikit-learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
 
-#### 🛠️ Developer Tools  
+####  Developer Tools  
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)  
@@ -43,7 +43,7 @@
 
 ---
 
-### 🔍 Core Areas of Interest
+###  Core Areas of Interest
 - **Machine Learning** (Supervised Learning)  
 - **Deep Learning** (especially CNNs)  
 - **Model Training & Evaluation**  
