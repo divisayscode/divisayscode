@@ -10,8 +10,8 @@
 </p>
 
 
-- 🧠 Interested in **Machine Learning**, **Deep Learning**, and intelligent simulations  
-- 🧪 Working on: **CNN-based Microfluidic Chip Modeling** using MATLAB & COMSOL  
+- 🧠 Interested in Machine Learning, Deep Learning, and intelligent simulations  
+- 🧪 Working on: CNN Based Chip Modelling using MATLAB & COMSOL  
 - 📫 Reach me at: **divanshi1309@gmail.com**  
 - 🎯 Goal: Build impactful AI solutions & grow as a developer
 
@@ -52,8 +52,3 @@
 ---
 
 
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=divisayscode&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divisayscode&layout=compact&theme=tokyonight" />
-</p>
