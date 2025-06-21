@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Divanshi;ML+%7C+DL+%7C+COMSOL+%7C+DSA&center=true&width=380&height=45">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Divanshi;ML+%7C+DL+%7C+DSA&center=true&width=380&height=45">
 </p>
 
 <h1 align="center">Hi 👋, I'm Divanshi</h1>
@@ -9,10 +9,14 @@
   <img src="https://komarev.com/ghpvc/?username=divisayscode&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
--  Interested in Machine Learning, Deep Learning, and intelligent simulations  
--  Working on: CNN Based Chip Modelling using MATLAB & COMSOL  
--  Reach me at: **divanshi1309@gmail.com**  
--  Goal: Build impactful AI solutions & grow as a developer
+🔍 **About Me**
+
+- 🎓 I'm a 3rd-year undergraduate student at Thapar Institute of Engineering & Technology
+- 🤖 Passionate about Machine Learning, Deep Learning, and intelligent simulations  
+- 🔬 Currently working on CNN-based Chip Modeling using MATLAB & COMSOL
+- 💡 Strong interest in AI applications for healthcare, agriculture, and chip design
+- ✉️ Reach me at: **divanshi1309@gmail.com**
+- 🎯 Goal: To build impactful AI solutions & grow as a developer and researcher
 
 ---
 
